@@ -6,9 +6,8 @@ Welcome to the Vue.js Learning Projects repository! This repository is dedicated
 
 - [About Vue.js](#about-vuejs)
 - [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+
+
 
 ## About Vue.js
 
