@@ -18,17 +18,9 @@ Vue.js is a progressive JavaScript framework used for building user interfaces. 
 
 Here's a list of projects included in this repository:
 
-1. Project Name 1 - Brief description.
-2. Project Name 2 - Brief description.
-3. ...
+1. Vue-expense-tracker(Vue-expense-tracker) - Brief description.
+
 
 Each project folder contains its own README.md file with detailed information about the project, including its purpose, features, and how to run it locally.
 
-## Getting Started
 
-To get started with Vue.js and run these projects locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/your-username/vue-learning-projects.git
