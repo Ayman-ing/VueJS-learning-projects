@@ -18,7 +18,14 @@ Vue.js is a progressive JavaScript framework used for building user interfaces. 
 
 Here's a list of projects included in this repository:
 
-1. Vue-expense-tracker(Vue-expense-tracker) - Brief description.
+1. [Vue-expense-tracker](Vue-expense-tracker) -
+An expense tracker app built with Vue 3 and the composition API.
+
+Add and remove expenses/income
+Track balance
+Save data to local storage.
+original project [vue-expense-tracker
+](git@github.com:bradtraversy/vue-expense-tracker.git)
 
 
 Each project folder contains its own README.md file with detailed information about the project, including its purpose, features, and how to run it locally.
