@@ -26,7 +26,7 @@ Track balance
 Save data to local storage.
 
 
-original project [vue-expense-tracker](git@github.com:bradtraversy/vue-expense-tracker.git)
+
 
 
 Each project folder contains its own README.md file with detailed information about the project, including its purpose, features, and how to run it locally.
