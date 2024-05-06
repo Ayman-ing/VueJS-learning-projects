@@ -3,7 +3,7 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## original project 
-[vue-expense-tracker](https://github.com/bradtraversy/vue-expense-tracker.git)
+[vue-expense-tracker](https://github.com/bradtraversy/vue-expense-tracker.git) by [badtraversy](https://github.com/bradtraversy)
 
 ## Customize configuration
 
