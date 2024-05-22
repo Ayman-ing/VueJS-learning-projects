@@ -2,8 +2,12 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-## original project 
+## Original project (source Traversy Media Vue 3 & Composition API - Full Project Youtube)
+
 [vue-expense-tracker](https://github.com/bradtraversy/vue-expense-tracker.git) by [badtraversy](https://github.com/bradtraversy)
+
+## Try it now ! 
+  [hosted project](https://ayman-ing.github.io/VueJS-learning-projects/)
 
 ## Customize configuration
 
