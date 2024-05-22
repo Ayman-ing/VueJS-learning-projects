@@ -28,6 +28,11 @@ const emit = defineEmits(["transactionSubmitted"]);
         toast.error('Both fields must be filled');
         return;
     }
+    
+    if(isNaN(parseFloat(amount.value)) || parseFloat(amount.value).toString() !== amount.value.trim()){
+      toast.error('the amount shoud be a number');
+        return;
+    }
 
     const transactionData = {
       text : text.value,
